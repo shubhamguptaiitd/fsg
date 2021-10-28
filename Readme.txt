@@ -2,10 +2,7 @@ COL 761 - Query SubGraph  : assignment - 2
 
 
 
-Team consist of -
-Sahil Manchanda - 2018CSZ8551
-Raj Kamal - 2018CSZ8013
-Shubham Gupta - 2019CSZ8470
+Team consist of - Sahil Manchanda,Raj Kamal,Shubham Gupta 
 
 
 
